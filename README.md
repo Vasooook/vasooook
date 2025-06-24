@@ -10,14 +10,25 @@ Building scalable automation with clean backend logic and API-first architecture
 
 ---
 
-## Services & Expertise
+## 🧩 My Core Services
 
-- **Custom Backend Architecture** using Wix Studio (Velo)
-- **AI-powered Bots**: OpenAI, GPT, Whisper, Langchain
-- **Telegram WebApp Bots**: full moderation + UI
-- **Crypto Trading Systems**: Binance API + AI signals
-- **API Integrations** with third-party services and payment systems
-- **Secure Automation** logic with cloud DBs & webhooks
+### ⚙️ Backend & Automation
+- Custom backend logic with **Wix Studio (Velo)**
+- Full-stack architecture for real-time workflows
+- Secure webhook & API automation
+
+### 🤖 AI Bots & Telegram
+- AI-powered bots using **OpenAI**, Whisper & Langchain
+- Telegram bots with full WebApp UI & moderation logic
+
+### 📉 Crypto Trading
+- Automated trading bots using **Binance Futures API**
+- Signal generation via GPT with risk-managed execution
+
+### 🔌 Integrations
+- Payments: **Stripe**, **WayForPay**, **HyperPay**
+- External APIs, webhook bridges, secure DB sync
+
 
 ---
 
