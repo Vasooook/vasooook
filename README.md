@@ -54,4 +54,5 @@ Building scalable automation with clean backend logic and API-first architecture
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasooook&show_icons=true&hide_border=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasooook&show_icons=true&hide_border=true&theme=graywhite)](https://github.com/Vasooook)
+
