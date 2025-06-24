@@ -12,22 +12,53 @@ Building scalable automation with clean backend logic and API-first architecture
 
 ## 🧩 My Core Services
 
-### ⚙️ Backend & Automation
-- Custom backend logic with **Wix Studio (Velo)**
-- Full-stack architecture for real-time workflows
-- Secure webhook & API automation
+---
 
-### 🤖 AI Bots & Telegram
-- AI-powered bots using **OpenAI**, Whisper & Langchain
-- Telegram bots with full WebApp UI & moderation logic
+### ⚙️ Backend & Automation  
+[![Wix Studio](https://img.shields.io/badge/Backend-Wix%20Studio-000?logo=wix&logoColor=white)](https://www.wix.com/studio)
+[![Webhooks](https://img.shields.io/badge/Webhooks-Automated%20Triggers-blue)](#)
+[![API Orchestration](https://img.shields.io/badge/API-Orchestration%20%7C%20REST%20%2F%20OAuth-lightgrey)](#)
 
-### 📉 Crypto Trading
-- Automated trading bots using **Binance Futures API**
-- Signal generation via GPT with risk-managed execution
+- Full backend architecture using **Wix Studio (Velo)**  
+- Complex automation flows for real-time business logic  
+- Secure REST APIs, background jobs, and webhook pipelines  
 
-### 🔌 Integrations
-- Payments: **Stripe**, **WayForPay**, **HyperPay**
-- External APIs, webhook bridges, secure DB sync
+---
+
+### 🤖 AI Bots & Telegram  
+[![OpenAI](https://img.shields.io/badge/AI%20Engine-OpenAI-10a37f?logo=openai)](https://platform.openai.com/)
+[![Langchain](https://img.shields.io/badge/NLP-Langchain-green)](https://www.langchain.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-WebApp%20UI%20%2B%20Moderation-2CA5E0?logo=telegram)](https://core.telegram.org/bots/webapps)
+
+- Intelligent bots powered by **GPT**, **Whisper**, and **Langchain**  
+- Telegram bots with custom UI (WebApp) and moderation systems  
+- Multilingual support, transcription, translation, filters  
+
+---
+
+### 📉 Crypto Trading  
+[![Binance Futures](https://img.shields.io/badge/Exchange-Binance%20Futures-f3ba2f?logo=binance)](https://binance-docs.github.io/apidocs/futures/en/)
+[![Risk Management](https://img.shields.io/badge/Risk--Managed-Dynamic%20Logic-critical)](#)
+[![OpenAI](https://img.shields.io/badge/Signal%20Engine-GPT--4%20Analyzed-darkgreen)](#)
+
+- Automated bots for **Binance Futures** (USDT-margined pairs)  
+- Real-time signal generation using OpenAI + market indicators  
+- Built-in SL/TP, position sizing, notional checks, and recovery  
+
+---
+
+### 🔌 API & Payment Integrations  
+[![Stripe](https://img.shields.io/badge/Payments-Stripe-blue?logo=stripe)](https://stripe.com/)
+[![HyperPay](https://img.shields.io/badge/Payments-HyperPay-lightblue)](https://www.hyperpay.com/)
+[![WayForPay](https://img.shields.io/badge/Payments-WayForPay-orange)](https://wayforpay.com/)
+[![Sync](https://img.shields.io/badge/External%20APIs-Synced%20%2F%20Webhook--Driven-yellow)](#)
+
+- End-to-end integrations with **Stripe**, **HyperPay**, **WayForPay**  
+- Secure OAuth token flow, custom webhooks, payment validation  
+- Real-time sync with external services or no-code platforms  
+
+---
+
 
 
 ---
