@@ -45,10 +45,10 @@ Building scalable automation with clean backend logic and API-first architecture
 
 ## Contact & Collaboration
 
-📨 **Email**: [support@365jpg.art](mailto:support@365jpg.art)  
-🌍 **Website**: [www.365jpg.art](https://www.365jpg.art)  
-🧑‍💼 **Upwork**: [Hire me on Upwork](https://www.upwork.com/freelancers/~017752a03bdc66874d)  
-💬 **Telegram**: [@studio365jpg](https://t.me/studio365jpg)
+**Email**: [support@365jpg.art](mailto:support@365jpg.art)  
+**Website**: [www.365jpg.art](https://www.365jpg.art)  
+**Upwork**: [Hire me on Upwork](https://www.upwork.com/freelancers/~017752a03bdc66874d)  
+**Telegram**: [@studio365jpg](https://t.me/studio365jpg)
 
 ---
 
